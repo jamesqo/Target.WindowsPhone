@@ -14,14 +14,6 @@ Just add this to your `project.json` file:
 }
 ```
 
-Want to use Windows Runtime APIs for Windows Phone 8? No problem:
-
-```json
-"wp80": {
-    "Target.WindowsPhone": "8.0.0"
-}
-```
-
 ## License
 
 [MIT](LICENSE)
