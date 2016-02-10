@@ -16,6 +16,11 @@ Just add this to your `project.json` file:
 }
 ```
 
+## Related Projects
+
+- [Target.Windows](http://github.com/jamesqo/Target.Windows) - use Windows 8 APIs from .NET Core
+- [Target.WindowsRuntime](http://github.com/jamesqo/Target.WindowsRuntime) - use Universal 8.1 APIs from .NET Core
+
 ## License
 
 [MIT](LICENSE)
