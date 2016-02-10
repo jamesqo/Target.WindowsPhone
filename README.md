@@ -1,5 +1,7 @@
 # Windows Phone APIs for .NET Core
 
+<img src="http://i.imgur.com/5dzr6Wi.png" width="35%"/>
+
 Creating a .NET Core library? Want to use native Windows Phone APIs? This project is for you.
 
 ## Getting Started
