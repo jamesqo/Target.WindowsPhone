@@ -11,7 +11,9 @@ Just add this to your `project.json` file:
 ```json
 "frameworks": {
     "wpa81": {
-        "Target.WindowsPhone": "8.1.0"
+        "dependencies": {
+            "Target.WindowsPhone": "8.1.0"
+        }
     }
 }
 ```
